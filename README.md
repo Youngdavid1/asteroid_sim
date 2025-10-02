@@ -11,3 +11,5 @@ Modules:
 - impact_sim: physics + consequence modelling
 - mitigation: suggested mitigation strategies
 - gui: Tkinter front-end
+
+# asteroid_sim
