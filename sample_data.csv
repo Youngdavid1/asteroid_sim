@@ -1,0 +1,4 @@
+id,diameter_m,density_kg_m3,velocity_km_s,approach_angle_deg,epoch
+AST-001,50,3000,11,30,2025-09-16
+AST-002,200,2600,20,45,2025-09-16
+AST-003,1200,2800,25,60,2025-09-16
